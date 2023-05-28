@@ -1,0 +1,2 @@
+# The Legend
+From the snowy peak of [[The White Widow Mountain]] flows the Weeping Widow River, a tribute to the eternal love story of the giants. As the tale goes, the surviving giant, in its unending grief, shed tears that turned into the river. The river, fed by the perpetual snow of the mountain - the frozen tears of the mourning giant - was a constant, gentle reminder of their love.

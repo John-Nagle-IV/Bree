@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"Game/Locations/Towns and Citys/The Town of Bree.md","id":"f7e551b77a9e9142","x":-640,"y":-780,"width":400,"height":400},
+		{"id":"dd55163e2ed5f3fb","x":-100,"y":-780,"width":400,"height":400,"type":"file","file":"Game/Locations/Routes and Roads/The Journey from Bree to Cressonport.md"},
+		{"type":"file","file":"Game/Locations/Towns and Citys/Cressonport.md","id":"c70f1adfc4414640","x":420,"y":-780,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ab0738983b9a82b2","fromNode":"f7e551b77a9e9142","fromSide":"right","toNode":"dd55163e2ed5f3fb","toSide":"left"},
+		{"id":"ac1cb7710d116652","fromNode":"dd55163e2ed5f3fb","fromSide":"right","toNode":"c70f1adfc4414640","toSide":"left"}
+	]
+}
