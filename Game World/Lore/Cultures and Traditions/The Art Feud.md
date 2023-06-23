@@ -10,4 +10,4 @@ Both sides are proud to admit that they have no problem conceding and praising t
 
 # Ongoing Works
 
-While the Tree and Mountain are 
+While the Tree and Mountain are the main focus, many other projects are in the works that are put forward for the competition. Any works develops are frantically sought by collectors and the obscenely wealthy. While these works are not magical, they are often priced equivalently by collectors.
