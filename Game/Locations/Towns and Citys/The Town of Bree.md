@@ -3,6 +3,7 @@ Bree is a small, agrarian town of no more than a few hundred people. It's a clos
 The mayor, [[Baron Elmdore]], is a man past his prime. His once-vibrant auburn hair now silver, his back slightly hunched, but his eyes are bright, sharp, and hold an undying love for his people.
 
 # Central Square
+
 | Roll (d12) | Encounter |
 |:----------:|:---------:|
 | 1 | A town crier has news of an opportunity for work. |

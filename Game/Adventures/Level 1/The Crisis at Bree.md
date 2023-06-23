@@ -2,6 +2,27 @@ Despite [[The Town of Bree|Bree]]'s modest size, it contributes significantly to
 
 The capital, overwhelmed by similar requests, has sent court Druids only to the largest towns, leaving Bree and other small communities to fend for themselves. Desperation is starting to creep into Bree, the threat of hunger is real and getting closer every day.
 
+---
+# The Drunken and Dangerous
+**Location:** [[The Town of Bree#The Plowed Farmer Inn|The Plowed Farmer Inn]] 
+
+## Introduction
+The evening breeze tugs at your cloaks as you approach the "Plowed Farmer Inn". The light spilling from its windows casts a welcoming glow in the dusky twilight. As you push open the creaky wooden door, the homely aroma of baked bread and the fruity notes of freshly tapped ale reach your nostrils. It's the familiar and comforting scent of civilization, of safety. 
+
+Inside, despite the hardships the town of Bree is currently facing, the inn thrums with a warm buzz. The locals huddle at their tables, nursing their drinks, their faces etched with weariness, yet smiling, laughing. It seems in here, at least, they've found a way to forget their worries, if only for a little while.
+
+As you step in, you barely get a moment to take in the lively scene. Before you can find a table or order a meal, a sudden ruckus breaks out. A heated argument between two boisterous patrons and a petite, flustered waitstaff member captures the room's attention. 
+
+"I've told you, you have to pay up! We can't serve you any more until you've cleared your tab," the server, a young woman with braided hair, pleads, her voice barely audible over the indignant grumbling of the pair.
+
+"But we ain't got no coin, lass!" slurs one of the men, a burly figure with unkempt hair and a crooked nose, his words slurring into one another. His companion, a wiry man with a scar trailing down his cheek, nods his head, attempting to look sincere and failing miserably.
+
+The room watches on, a mix of sympathy for the waitstaff and annoyance at the inebriated pair palpable in the air. It seems like the peaceful evening at the "Plowed Farmer Inn" might turn sour if something isn't done soon.
+
+## Encounter Details:
+* 2 [Bandits](https://www.dndbeyond.com/monsters/16798-bandit) using only unarmed strikes +0 hit (1d4) Bludgeoning 
+
+---
 # The Mill Encounter: Rats in the Grain
 **Location:** [[The Town of Bree#The Desolate Grain Mill|The Desolate Grain Mill]]
 
@@ -15,7 +36,6 @@ Approaching the entrance of the grain mill:
 **Fail**: A heavy gust of wind howls through the rafters causing the well-worn beams to creak slightly. The sour scent of, what you can only guess is spoiled grain, fill your nose. It's remarkably quiet in here.
 
 ## Encounter Details:
-
 -   2 [Swarms of Rats](https://www.dndbeyond.com/monsters/17032-swarm-of-rats) (CR 1/4 each)
 -   1 [Diseased Giant Rat](https://www.dndbeyond.com/monsters/288142-diseased-giant-rat), acting as the Rat King (CR 1/8)
 
@@ -31,6 +51,7 @@ Remember, the interior of the mill offers opportunities for environmental intera
 
 Once the last squeak echoes through the mill, and the party stands victorious, they will have succeeded in their first quest for the town of Bree. The town's folk, although they can't offer much, are grateful and will do their best to help clean and restore the mill. The reputation of the adventurers will start to rise in Bree.
 
+---
 # Quest Proposal: Safe Passage
 **Location:** [[The Town of Bree#The Spotted Sparrow General Store|The Spotted Sparrow General Store]]
 

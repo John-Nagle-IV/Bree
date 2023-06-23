@@ -11,6 +11,7 @@ Bandits are also a known menace on this road. They use the hilly terrain and for
 This journey will be a test of the party's survival skills, as well as their ability to handle unexpected encounters and navigate difficult terrain. They will need to manage their resources, keep watch for threats, and navigate through the wilderness effectively to ensure their precious cargo - and themselves - arrive at Cressonport safely.
 
 # Daytime Encounter Table:
+
 | Roll (d12) | Encounter |
 |:----------:|:---------:|
 |     1-2    | Beast Encounter |
@@ -21,6 +22,7 @@ This journey will be a test of the party's survival skills, as well as their abi
 |    11-12  | Friendly Passer-by |
 
 # Nighttime Encounter Table:
+
 | Roll (d12) | Encounter |
 |:----------:|:---------:|
 |     1-2    | Beast Encounter |
