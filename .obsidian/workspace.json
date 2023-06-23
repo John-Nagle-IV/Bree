@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game/Homebrew/Rules.md",
+                "file": "Game/Lore/Overworld/Planes of Existence/Planes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82fdb46800eea98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Lore/Overworld/Planes of Existence/Planes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b68ddcb8f0a2788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Lore/Overworld/Celestial Beasts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game/Homebrew/Rules.md",
+                "file": "Game/Lore/Overworld/Celestial Beasts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game/Homebrew/Rules.md",
+                "file": "Game/Lore/Overworld/Celestial Beasts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game/Homebrew/Rules.md"
+                "file": "Game/Lore/Overworld/Celestial Beasts.md"
               }
             }
           }
@@ -146,18 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "563063f975827811",
+  "active": "9b68ddcb8f0a2788",
   "lastOpenFiles": [
-    "Game/Lore/Cultures and Traditions/About the Species.md",
+    "Game/Lore/Overworld/Planes of Existence/Planes.md",
+    "Game/Lore/Overworld/Planes of Existence/Prime Material Plane.md",
+    "Game/Lore/Overworld/The World of Cibil.md",
+    "Game/Lore/Overworld/Untitled",
+    "Game/Lore/Overworld/Planes of Existence",
     "Game/Homebrew/Rules.md",
+    "Game/Lore/Cultures and Traditions/About the Species.md",
     "Game/Homebrew/Items.md",
     "Game/Lore/Cultures and Traditions/The Art Feud.md",
-    "Game/Lore/Overworld/The World of Cibil.md",
     "Game/Lore/Overworld/Thought Space.md",
     "Game/Homebrew",
     "Game/Sessions/2023-07-11 -- Session 0.md",
     "Game/Lore/History",
-    "Game/Lore/Overworld/Planes.md",
     "Game/Lore/Overworld/Origins of Magic.md",
     "Game/Lore/Overworld/Celestial Beasts.md",
     "Assets/Images/The Empire.jpg",
@@ -183,10 +211,6 @@
     "Untitled.md",
     "Game/Locations/Towns and Citys/The Town of Bree/The Plowed Farmer Inn.md",
     "Game/Locations/Towns and Citys/The Town of Bree/The Spotted Sparrow General Store.md",
-    "Game/Locations/Towns and Citys/The Town of Bree/The Desolate Grain Mill.md",
-    "Game/Locations/Towns and Citys/The Town of Bree/The Town Hall of Bree.md",
-    "Game/Locations/Routes and Roads",
-    "Game/Locations/Natural Landmarks",
-    "Game/Locations/Towns and Citys"
+    "Game/Locations/Routes and Roads"
   ]
 }

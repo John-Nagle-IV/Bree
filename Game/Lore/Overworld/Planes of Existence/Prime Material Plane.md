@@ -1,0 +1,1 @@
+The Prime Material Plane is what comes from the intersections of all other planes of existence. As such, it is a hub for cross-planar travel. Beings from all other realms may find themselves here as they move across existence.

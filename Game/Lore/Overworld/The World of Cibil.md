@@ -1,3 +1,5 @@
+Nestled comfortably within the [[Prime Material Plane]]
+
 # The Story Told
 Over one thousand years ago there were seven great kingdoms when the Mad Wizard King released a great spell across his own lands, killing his own subjects and raising them as ravenous undead minions. Two of the other kingdoms, either out of fear or personal gain, saw fit to ally themselves with the Mad King. They too gave up their bodies and souls along with their citizens, becoming powerful undead in their own right.
 
