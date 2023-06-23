@@ -5,7 +5,7 @@ Orcs are highly curious and explorative. They are nomadic until they find someth
 Dwarfs have a similar naming convention using the prefix "Dun" to mean "under". As a whole, the group tends to be very proud of their artists and craftsmanship often showing off the strength of their metalwork, details of their tailors, and taste of their food.
 
 # Elves
-Villages and towns are grown, not constructed. They use a "[[Village Seed]]" to grow a tree whose magics influence the land around them to create dwellings. This process can take about 100 years, but the long lives of elves make this no problem, and they often go out exploring while their home is growing.
+Villages and towns are grown, not constructed. They use a "[[Items#Village Seed|Village Seed]]" to grow a tree whose magics influence the land around them to create dwellings. This process can take about 100 years, but the long lives of elves make this no problem, and they often go out exploring while their home is growing.
 
 Elven traditions run long and one such is their devotion to crafts. Boasting the lightest of wares while maintaining strength and durability that seemingly come from nowhere, elves are proud in their works and challenge others to do better.
 

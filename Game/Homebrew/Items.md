@@ -1,0 +1,2 @@
+# Village Seed
+A magical seed which will grow into a Great Tree acting as the hub of an Elf's village. The tree supplies a steady stream of magic to the land increasing the fertility and yield of the crops. It also helps reshape the trees into being able to provide both housing and food production.
