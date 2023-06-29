@@ -13,7 +13,7 @@ While their work has been widely agreed to have been what keeps the boundless ho
 # The Story Untold
 The "Mad Wizard King", [[Tasim Vuforn]], in his research on the origins of magic discovered that the planet was an egg fostering the life of a [[Celestial Beasts]]. His discovery of the beast, along with how its lifecycle works caused him to raise alarm.
 
-Spreading his discovery to the other kingdoms, there became two conflicting opinions on how to proceed. [[Tasim Vuforn]] along with [[Uzohr Denell]] and [[Olyn Esero]] agreed that to save their kingdoms and the rest of the planet, the population would need to be managed.
+Spreading his discovery to the other kingdoms, there became two conflicting opinions on how to proceed. [[Tasim Vuforn]] along with [[Uzohr Denell]] agreed that to save their kingdoms and the rest of the planet, the population would need to be managed.
 
 [[Lassev Beaux]], [[Gibin Ahion]], [[Shifarih Xoflyn]], and [[Strugast Wilore]] all saw their place as stewards of the beast with a duty to see it hatch and create more worlds across the cosmos.
 

@@ -1,6 +1,6 @@
 Cressonport is a bustling port town to the southeast of [[The Town of Bree]], a three-day journey through dense woods and along winding rivers. The town has managed to remain prosperous through the drought, primarily due to its strategic location as a trading hub and the diversity of its goods and resources.
 
-The town's most notable figure is Baroness Knightsgall, a savvy businesswoman who runs a sizable merchant operation from Cressonport. Known for her sharp mind and sharper tongue, she deals in a variety of goods and has developed an extensive network of traders, suppliers, and customers throughout the region.
+The town's most notable figure is [[Baroness Knightsgall]], a savvy businesswoman who runs a sizable merchant operation from Cressonport. Known for her sharp mind and sharper tongue, she deals in a variety of goods and has developed an extensive network of traders, suppliers, and customers throughout the region.
 
 [[Baroness Knightsgall]] is a shrewd negotiator and is not known for her leniency when it comes to debt. Yet she also possesses a keen understanding of the broader picture and the intricacies of commerce. While she requires the payment from [[Faelan and Annalise]], she also understands the need for stability in the region, especially in towns like Bree that supply grain and other produce.
 

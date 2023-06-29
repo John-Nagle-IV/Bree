@@ -2,6 +2,8 @@ Bree is a small, agrarian town of no more than a few hundred people. It's a clos
 
 The mayor, [[Baron Elmdore]], is a man past his prime. His once-vibrant auburn hair now silver, his back slightly hunched, but his eyes are bright, sharp, and hold an undying love for his people.
 
+![[Bree.jpg]]
+
 # Central Square
 
 | Roll (d12) | Encounter |
@@ -27,7 +29,7 @@ Despite their worsening situation, [[Faelan and Annalise]] maintain a brave face
 ## The Plowed Farmer Inn
 The Plowed Farmer Inn is Bree's cozy sanctuary for both locals and travelers. Run by the hospitable widow, [[Serafine]], the inn offers a place to rest, share stories, enjoy a meal, and for travelers, a spot to hitch their horses.
 
-Before the drought, the inn bustled with lively conversation, laughter, and the occasional traveling bard. Although its rooms are often quieter now, Serafine ensures every guest is welcomed with a warm smile and a comforting meal.
+Before the drought, the inn bustled with lively conversation, laughter, and the occasional traveling bard. Although its rooms are often quieter now, [[Serafine]] ensures every guest is welcomed with a warm smile and a comforting meal.
 
 The inn's stable posts have always been open to travelers, but with the ongoing drought, horse feed has become a rare and costly commodity. Despite the fee for horse feed nearing the cost of a luxury, [[Serafine]] remains hopeful that the arrival of adventurers may bring a much-needed change in the town's fortunes.
 
