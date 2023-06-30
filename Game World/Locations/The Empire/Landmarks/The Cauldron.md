@@ -17,35 +17,6 @@ The Cauldron is a giant crater that has become the testing grounds for [[Beacon]
 
 # Survival & Nature Finds
 
-## Rarity
-
-| d20 |  Rarity |
-| :---: | :-----: |
-| 1 - 5 | Nothing |
-| 6 - 10 | Common |
-| 11 - 15 | Uncommon |
-| 16-20 | Rare ||
-
-## Common Finds
-
-| d20 |  Rarity |
-| :---: | :-----: |
-| 1 - 19 | Common |
-| 20 | Uncommon |
-
-## Uncommon Finds
-
-| d20 |  Rarity |
-| :---: | :-----: |
-| 1 - 19 | Uncommon |
-| 20 | Rare |
-
-## Rare Finds
-
-| d20 |  Rarity |
-| :---: | :-----: |
-| 1 - 19 | Rare |
-| 20 | Legendary |
 
 # Locations
 ## The Cauldron
