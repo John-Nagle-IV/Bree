@@ -4,7 +4,7 @@ The Cauldron is a giant crater that has become the testing grounds for [[Beacon]
 
 # Random Encounters
 
-## Friendly Encounter Table
+## Traveling Friendly Encounter Table
 
 | d20 | Encounter |
 | :-: | :-------- |
@@ -17,6 +17,7 @@ The Cauldron is a giant crater that has become the testing grounds for [[Beacon]
 
 # Survival & Nature Finds
 
+[[Plants#Swamp|Swamp Plant Table]] 
 
 # Locations
 ## The Cauldron
@@ -58,7 +59,7 @@ The water has become thick and viscous, but worst of all mutagenic. Potions, spe
 
 #### Mutation Table
 
-| Roll | Effect |
+| d12 | Effect |
 |:----:|:-------|
 | 1 | Claws and Fangs |
 | 2 | Gills |
@@ -73,28 +74,34 @@ The water has become thick and viscous, but worst of all mutagenic. Potions, spe
 | 11 | Voice of the Wild |
 | 12 | Roll twice and get both mutations |
 
-## Cauldron Entrance
+## Locations
 
-## Camp of the Lost
+### Cauldron Entrance
 
-## Tower of Relief
+### Camp of the Lost
 
-## Battletower
+### Tower of Relief
 
-## Monument of the Shieldmaiden
+### Battletower
 
-## Monument of the Red Dragon
+### Monument of the Shieldmaiden
 
-## Howling Tree
+### Monument of the Red Dragon
 
-## Suspended Isle
+### Howling Tree
 
-## Whirlpool
+### Suspended Isle
 
-## Ruins of Zerg
+### Whirlpool
 
-## Spawning Chasm
+### Ruins of Zerg
 
-## Crystal Flame
+### Spawning Chasm
 
-## Tower of the Lost Index
+### Crystal Flame
+
+### Tower of the Lost Index
+
+## Druidic circles
+
+[[The Conclave of the Undergrowth]]

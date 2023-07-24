@@ -13,3 +13,6 @@
 Potions may be consumed as a bonus action. Doing so will have the player roll for the effectiveness of the potion.
 
 Consuming the potion as a full action allows for the full effect of the potion without a roll.
+
+# Sleep
+Sleeping well on the road is important and as such you need supplies. A bedroll allows for comfortable sleep. Without one, one needs to make a DC 10 Constitution Saving Throw or else they do not benefit from the long rest and only recover half their available hit dice.

@@ -1,0 +1,3 @@
+Carved out of a spire piercing from the center of an underground lake in a huge cavern, six bridges radiate from the spire like a star. This is one of the principle hubs of the [[Underdark]] providing resting points from navigating the maze-like tunnels as well as a center of trade and commerce.
+
+The lake surrounding the Spire City contains an [Aboleth](https://www.dndbeyond.com/monsters/16762-aboleth) ready to eat whatever or whomever falls of the bridge or just happens to take too long to cross.
