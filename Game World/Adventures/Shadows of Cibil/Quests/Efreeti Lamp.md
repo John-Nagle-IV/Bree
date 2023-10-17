@@ -1,0 +1,3 @@
+Train heading towards [[Port Viaz-Ros#Docks]] was carrying an old oil lamp which bound to it an [Efreeti](https://www.dndbeyond.com/monsters/16854-efreeti). The lamp was purchased by [[Alibaast Underrubble]], a noble dwarf residing in [[Dun Gonrear]] who seeks its knowledge of the [[Elemental Plain of Fire]] to get through a magical molten wall deep underground.
+
+The lamp was stolen by the criminal group, [[The Undertow]], at the request of their leader [[Brandish Wildvine]]. She sought to subjugate the bound [Efreeti](https://www.dndbeyond.com/monsters/16854-efreeti) and gain power through it to further her criminal underground.
