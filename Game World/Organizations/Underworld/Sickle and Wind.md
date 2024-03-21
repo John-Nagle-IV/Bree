@@ -1,0 +1,1 @@
+Farmers who have been wronged by nobles turned to crime. More keen to steal from nobles, and far less interested in other 

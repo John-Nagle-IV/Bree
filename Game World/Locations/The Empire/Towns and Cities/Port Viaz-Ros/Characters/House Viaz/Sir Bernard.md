@@ -1,0 +1,2 @@
+- Ex military
+- Butler to [[Lady Chel]]

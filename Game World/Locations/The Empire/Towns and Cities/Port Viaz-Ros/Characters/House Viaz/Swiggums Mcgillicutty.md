@@ -1,0 +1,3 @@
+A personal servant to a [[Lady Chel]], when at work he presents himself as the most prim and proper Gnome; always standing up straight and rigid. His day-to-day has him shuttling around paper work on [[Lady Chel]]'s behalf, bringing her whatever documents or seals needed, and acting as her "go-fer". When "off the clock" his mannerisms completely change. Rude, belligerent, and self-centered, Swiggums will happily lie, cheat, and steal to get one-up on whomever he is dealing with. His loyalty is only to the coin he is paid or favors he can garner. 
+
+Working for [[The Undertow]] for

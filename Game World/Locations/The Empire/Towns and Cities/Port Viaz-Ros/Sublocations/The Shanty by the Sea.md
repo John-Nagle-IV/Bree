@@ -11,7 +11,7 @@ Facing the desk to the right is the stares zigzagging up to the top floor and co
 Facing the desk to the right and stretching back is the small dining hall with the kitchen attached at the back. From the kitchen, a trapdoor to the cellar can be found keeping the beer and vegetables cool.
 # Innkeeper
 
-**Mrs. Isabella Keep** - Young human woman, only 20 years of age, Isabella keeps her blond hair in a tight bun. Having inherited the Inn from family before her, though not much in pomp and wares, she takes pride in the simple things and does her best with limited means to keep the inn clean and comfortable for her guests.
+**[[Mrs. Isabella Keep]]** - Young human woman, only 20 years of age, Isabella keeps her blond hair in a tight bun. Having inherited the Inn from family before her, though not much in pomp and wares, she takes pride in the simple things and does her best with limited means to keep the inn clean and comfortable for her guests.
 
 **Charity Smalls** - A middle-aged halfling woman dressed in a simple white frock and comfortable, clean linens. She handles much of the serving in the first floor dining area. She can always be seen darting from the tables to the kitchen and back as she fills orders.
 

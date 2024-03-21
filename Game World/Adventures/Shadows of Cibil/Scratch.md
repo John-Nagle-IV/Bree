@@ -83,7 +83,7 @@ Market quests
 
 Detective Alfred Perrybottom - Dwarf with golden mutton chops. 
 
-Mr. Sparktwine (Gnome)
+[[Mr. Sparktwine]] (Gnome)
 140 Proof beer
 
 Evermore's Ruby Elixir (150gp) - High Class Red Wine
@@ -116,4 +116,73 @@ Apothecary, skull with herbs stuffed in mouth
 
 Endwise The alchemist - potion of true reresection 
 Meed scares the shit out of Endwise and now Endwise is curious. His goggles came down and he saw the Hag Eye
+
+
+
+---
+Bar fight with Ogre and drunk friends
+
+[[The Marionets]] sent a spy following the party and discovered [[Morgot Leadfoot]]. Killed him because his items were not what he promised
+
+Bats & meed by body
+Liam in inn
+Lucan was asleep
+
+[[Morgot Leadfoot]] and [[Elwinor Glassy]] rooms tossed by guards. Items removed.
+
+Grimes -- Captain of "The Fall of Sunshine"
+
+Explosions - Docks are on Fire
+
+---
+
+[[The Marionets]] spy was killed and [[Meed Night]]
+
+Char woke up in an inn above a bar. "Big Barn Door"
+- Robert "Big Barn" Rightfield
+
+"Boom Boom" cellar locked
+
+[[Sickle and Wind]]
+
+She'la leader of the [[Sickle and Wind]]
+
+Swiggums Mcgillicutty
+
+---
+
+[[Swiggums Mcgillicutty]] works for [[Lady Chel]]
+Her head butler [[Sir Bernard]] has a room with keys
+[[G'wayne Bloomspear]] found his diary showing his time in the military and on the other side of [[The Bulwark]]
+Found Keys
+- Clove - Foot Locker
+- Heart - [[Lady Chel]]'s room
+- Circle - Basement
+- Diamond - [[Lady Chel]]'s desk
+- Spade - Garden Shed in the back
+---
+[[Bat's Wing (Bats)]] walks to [[Endwize the Alchemist]]'s lab
+Works for an hour to get the pill discovered
+
+[[Char Bludstern]] - Singing with 
+
+[[G'wayne Bloomspear]] in basement
+Pockets 5 silverware 
+Sees 500gp bottle of wine and 2 200gp bottles
+
+----
+
+[[Swiggums Mcgillicutty]] has the sealing ring
+
+[[She'la]] - of [[Sickle and Wind]] - pissed that there was 
+
+100gp - Orphans Missing
+Church of the  [[Hillia - Goddess of Travel]] 
+[[Lady Crestor]] - Prissiest of The Temple
+
+[[Assahai - God of Contracts]]
+
+[[Raffel]] - The dwarf assistant to [[Lady Crestor]]
+
+[[Timmothy]] - Older child - stole [[Azziz]] box. Fenced it.
 

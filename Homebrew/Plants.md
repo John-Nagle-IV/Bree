@@ -63,3 +63,9 @@
 |:--|:--|:--|
 | Graveflower | When brewed and buried in the ground for 1d6 days, this can be poured into a corpse's mouth to cast [speak with dead](https://www.dndbeyond.com/spells/speak-with-dead).||
 | Gravedust | A thorny plant that grows in graveyards. This plant can be brewed into a [potion of resistance](https://www.dndbeyond.com/magic-items/5419-potion-of-resistance) specifically for necrotic damage.||
+
+
+
+# Mushroom
+
+Corpsflower Mushrooms - Used for feign death potion or if in higher concentration paralysis and death.
