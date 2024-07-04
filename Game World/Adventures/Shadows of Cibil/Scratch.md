@@ -184,5 +184,130 @@ Church of the  [[Hillia - Goddess of Travel]]
 
 [[Raffel]] - The dwarf assistant to [[Lady Crestor]]
 
-[[Timmothy]] - Older child - stole [[Azziz]] box. Fenced it.
+[[Timmothy]], [[Marko]], [[Bryn]] - Older child - stole [[Azziz]] box. Fenced it at the [[Groggy Bucket]]
 
+---
+Split between college and guards
+[[Mr. Sparktwine]] to get to college
+
+[[Mr. Sparktwine]] shipment to the college of depleted mana crystals and picking ups charged ones
+
+grey - level 0 - 1 [[Parmik]]
+yellow - level 2 - 3
+blue - level 4 - 5
+red - level 6 - 8
+purple - level 9 - 10
+
+[[The Mistress of Tombs]] Gertrude "The Library"
+
+[[Professor Harrison Stonebottom]]'s Sanctum 
+
+[[Garry the Neighborhood Watchman]]
+
+---
+They have some time within the Sanctum while the crystals are recharged. Time to learn what they can about hags.
+
+
+
+[[Lady Greyhair]] - Back-ally wizard merchant 
+[[Skriggle]] "Red Kobold" - Wandering midcity
+[[Clam-hide]] "Triton" - Docks and Rocks
+[[Sir Rigis Longtail]] "?Dragon" - Noble Court
+
+[[Dark Bazzar]] - Where all magical goods are exchanged that are deemed too dangerous for legitimate import.
+
+Vault 319 - [[Bank of Karabraxos]] Rob 1000gp
+
+Bats lost their voice to the fey pixie that was bound to [[Endwize the Alchemist]]. 1 week to get the pixie unbound
+
+---
+Found their way to mid city through first a crack-carriage which they opted to not to go on (addicted to haste potions). He was informed that [[Endwize the Alchemist]] was away from his shop and ran off towards that place. The pixy will turn him into a brown rabbit.
+
+The group found [[Skriggle]] and chased him down an alleyway ultimately capturing him and offering him information to trade. They learned that his boss [[Gree Goldtooth]] was the one who ultimately got ahold of the package stolen by the children. Yet to be known as a Scroll of [Glibness](https://www.dndbeyond.com/spells/glibness)
+
+---
+
+- Meeting in bank street
+- Beat back the Hag 
+- Got the tankard
+- Inn - [[FruFru Inn]] - [[Douglass FruFru]] - Everything is doilies - Porcelain figurines - 7s for both nights
+- 2 rooms - 2A, 2B
+- Toxic tankard GET
+---
+[[Alfred Perrybottom]] joins in the morning
+6 long rests until [[Bat's Wing (Bats)]] looses his voice
+[[Endwize the Alchemist]] went into the sewers
+[[Skriggle]] is going to meet the group later tonight
+[[G'wayne Bloomspear]]
+Opened account 10gp
+Got the armor and rod of stone shape from [[City Core of Engineers]]
+
+Damage from Black Pudding Corrosive Form
+- Liam: short-sword -2
+- Guard (D): Spear -1
+
+---
+
+Marching order
+- Liam
+- Guard (D)
+- Bats
+- Guard (A)
+- Lucan
+- Gwayn
+
+Escaped
+
+---
+Ooze on the heel
+Belgretor -1 axe dmg
+[[Skriggle]] - Pocket Watch - Magic tapping on deposit box to turn into door
+[[Gree Goldtooth]] - willing to accept book, no trade
+Vault magic requires either the person who owns the vault or dead
+
+---
+
+Heading back to [[FruFru Inn]] - [[Douglass FruFru]] - Everything is doilies - Porcelain figurines - 7s for both nights 
+- 1A and 1B
+Other guests - Mercantile Guests
+Little Timmy - Line Cook
+
+"[[Gwendalin Finds]]" - Midcity Shop
+Human 
+
+Destination in the High City - Omni-Temple 
+Where the Veil is thin
+
+Split party
+
+| P1 - High City                     | P2 - Mid City    |
+| ---------------------------------- | ---------------- |
+| Liam, Lucian, (Gwayn, Char - Omni) | Belg, Zero, Bats |
+Bats - 3 Days to no voice
+
+Belg, Zero, Bats
+
+Coin, Flip 
+
+Luna - Mid god Purity and recovery
+
+Found [[Elwinor Glassy]] on a cot
+
+---
+"The Taximan"
+
+[[The Nevermore]] - [[Tomb of the Taximan]]
+Books in the cab
+[[Bat's Wing (Bats)]] paid the blood price -
+	3 days
+[[Elwinor Glassy]] - Forcibly made addicted to keep close by the lord of [[Roguespire]]. There is an Arcane Sigil scarred into her back
+
+---
+[[Elwinor Glassy]] saved! Back is arcane key to unbind kraken
+[[Lord Alabaster Ros]] knows how to reshape the bind
+Kidnapped children are needed because they're easier to control. The Hags plan to kill [[Elwinor Glassy]] and immediately use [[Lord Alabaster Ros]] to rebind the beast to the children.
+
+[[Gwendalin Finds]] waiting for party to show up in a cozy apartment with tea at the ready. 
+
+[[Harrold Windsly]] - Rotund Wizard, always eating head of divinations
+Bardic College in midcity

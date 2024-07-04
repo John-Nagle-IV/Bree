@@ -12,5 +12,10 @@ Festivals in Port Viaz-Ros are loud, lively affairs, with residents from each si
 In the waters between the cities, the inlet is dotted with ships flying flags of Viaz or Ros, their captains engaging in their own contests of speed and maneuverability. All these elements combined, what once started as a bitter feud has become the twin city's unique charm, the beating heart of Port Viaz-Ros.
 
 So, while the feud of their nobles continues in the courts and grand halls, in the streets of Port Viaz-Ros, it's simply a part of life. And oddly enough, it's become the unifying factor that makes this sprawling, twin city one harmonious whole.
+# Viaz Half
+## Low City
+This is where many of the poorer class reside. Its population consists of mostly dock workers, a few shop owners, and barkeeps. 
+## Mid City
+## High City
 
-# Docks
+## Sewars
