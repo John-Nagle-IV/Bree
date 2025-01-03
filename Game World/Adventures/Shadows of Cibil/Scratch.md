@@ -289,12 +289,12 @@ Belg, Zero, Bats
 
 Coin, Flip 
 
-Luna - Mid god Purity and recovery
+[[Luna]] - Mid god Purity and recovery
 
 Found [[Elwinor Glassy]] on a cot
 
 ---
-"The Taximan"
+"[[The Taximan]]"
 
 [[The Nevermore]] - [[Tomb of the Taximan]]
 Books in the cab
@@ -311,3 +311,266 @@ Kidnapped children are needed because they're easier to control. The Hags plan t
 
 [[Harrold Windsly]] - Rotund Wizard, always eating head of divinations
 Bardic College in midcity
+
+---
+[[Viaz University]]
+- [[Boltlock]]
+- [[G'wayne Bloomspear]]
+- [[Char Bludstern]]
+
+[[Gwendalin Finds]]
+- [[Zero]]
+- [[Bat's Wing (Bats)]]
+
+COMBAT!
+Belgrator's Body
+
+[[Golden Paladins of the Crown]] - Astarties 
+
+[[Gwendalin Finds]] Gotten
+
+Bats does not need to breath after taking the Taxi
+
+Group up!
+
+"Halakey" said "there is nothing there" to the state of Bats
+
+Pay Tax
+- Blood
+- Breath
+- Bone
+
+Voice gone end of tomorrow
+
+[[Professor Harrison Stonebottom]] Vice President of the University gone talking
+
+Bats - If he dies, he can't be resurrected. Ghosts will try and kill him constantly
+
+---
+
+Met back up at the college in the  library. [[Professor Harrison Stonebottom]] Vice President of the University gone talking to about [[Bat's Wing (Bats)]]
+
+Bat's haunted
+They need to go to
+[[The Sewers Under Port Viaz-Ros]]
+
+Arrive at the Temple of Silvanas
+Meet gardener Greggory
+
+Dwarven with flowers woven through his white beard [[High Priest Rowan Eggop]]
+
+Grove is Silvanas' Temple
+
+Overgrowth is where monsters are
+
+Short rest - Gwayn Went to the Luna Temple
+
+Fighting 
+
+Escaped the Overgrowth
+
+---
+[[High Priest Rowan Eggop]] Meditating
+
+[[Reacher]] - Horse wagon house
+
+[[Ethral Time Keeper]] - Keeper of times in the Omni Temple
+
+50gp hour glass
+
+25gp attunable day/night
+
+5gp broken pocket watch - faint spark of arcane
+
+8 hours until barley flour
+
+---
+
+Left off in the ally way
+
+Rats in the ally
+
+Zero eats a rat and his fur turns purple
+
+Short rest.
+
+---
+# Find Endwise Body!
+
+Actions like attacking take 10s of breath
+Spells with verbal components take 30s of breath
+
+|  Name   | Max Hold Breath | Breath | Dark Vision |
+| :-----: | --------------- | ------ | ----------- |
+|  Liam   | 180             | 180    | V           |
+|  Char   | 180             | 154    | DV          |
+| G'Wayne | 180             | 180    | DV          |
+|  Zero   | 30              | 30     | DV          |
+|  Lucan  | 60              | 44     | DV          |
+|  Bats   | 120             | 120    | DV          |
+|   Six   | 60              | 30     | DV          |
+|         |                 |        |             |
+# Nicholi's Pocket Knife
+"To my loving son, Nicholi"
+"From your daddy"
+
+-> Start combat on rats
+
+Zero 582 s zone of truth
+
+G'wayne 94s of shouting
+
+Six 60s of max spell damage
+
+Six int set to 22 for 3 days and following 6 days will be set to 16
+
+Lucan start initiative at next session 
+
+Zero infected with
+**Blue Mist Fever**
+An infected creature begins seeing vivid hallucinations of blue monkeys 5 hours after failing the save, and the hallucinations last until the disease ends on the creature. A creature can repeat the saving throw every 24 hours, ending the effect on itself on a success.
+
+**Mindfire**
+The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [confusion](https://5e.tools/spells.html#confusion_phb) spell during combat.
+
+Liam infected with
+**Bluerot**
+This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in 1d4 hours, causing the victim's Constitution and Charisma scores to decrease by 1d4 each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+
+dead rats
+Pixy bound to bats
+Lucan bottle of arcane chaos
+six - vial of rat king blood
+
+[[Lady Greyhair]]
+
+Mid-day
+
+---
+
+[[Endwize the Alchemist]] - Potions now "At Cost"
+
+Rest at Temple of Luna
+
+Guards at the door
+
+1 long rest (day) down for Six's bonus intelligence - 2 remain
+
+---
+
+[[High priest Gillian Elswain]] - Of [[Luna]]
+
+End of fight of ghouls
+
+[[Golden Paladins of the Crown]] arrive
+
+---
+Party arrival at [[Tilda Bronzebrow Viaz]] manner acolyte in toe with the [[Elwinor Glassy]] and [[Alfred Perrybottom]] along with a few guards.
+
+
+---
+
+Handed over [[Elwinor Glassy]] and got a bag of holding and 5,000 GP
+
+5 days until ship from [[Roguespire]] arrives
+
+Heading to [[Hillia - Goddess of Travel]] church
+
+[[Lady Crestor]] - Prissiest of The Temple
+
+SLEEP
+
+---
+	Boat arrives 4 days
+
+Sleeping in the [[Hillia - Goddess of Travel]] temple
+Level up
+
+---
+Down time / [[Bank of Karabraxos]] vault with baby mimics
+
+> Boat arrives in 3 days
+
+- [[Skriggle]] the Kobold serving [[Gree Goldtooth]]
+- Sleep in to midnight
+
+### Fireside Chat
+Meed and Char share a fire in the early morning (3 am)
+
+Bats wake up
+
+Meed and Bats talk
+
+Let out by [[Lady Crestor]]
+
+Meed traumatizes a kid by CGI Catz
+
+### Try to go to [[Bank of Karabraxos]]
+Bank was closed. They can come during normal working hours
+
+Boss - Kobold, "I'm boss" Pinstripe vest
+
+Half Orc Aar'on - Waitstaff Leather Suspenders
+
+Ruby of the Sea Wine 50gp a glass 750gp a bottle
+
+"Firewater" - 3gp per shot
+
+order 4 ruby and firewater
+
+Elven lady, cane, pinstripe suit, high heels, [[Lira Deep Shadow]]
+
+20gp opponent up to 500gp
+
+GRONK THE DESTROYER VS LADY SANGUIN
+
+Red dragon born catches thieving -- [[Zero]]
+
+Ogre managing the door "Half" "Halfwit"
+
+### Fighting
+
+Pirates with new loot come in
+
+[[Captain Oglog]] - Halfling rotund in purple silk and gold jewelry
+
+Stolen barrels of the "Nectar of the Gods" tapped and drink
+
+Meed drinks and feels some effect
+
+[[The Satyr Court]] 
+
+Meed splits with slime clone
+
+Bats ritual summons
+
+Pixy turn to monkey
+
+Fight
+
+[[Drk Glasseye]]
+
+Pixy down
+
+---
+New dawn at the docks
+
+2 days until ship from [[Roguespire]] arrives
+
+[[Endwize the Alchemist]] - Sells mushrooms and a two potions that were purple
+
+Purchased from a merchant a two simple healing potions and poisoners and herbalist kits
+
+[[Lady Greyhair]] takes notes of the asks
+
+Zero - 11gp
+Char - 10gp
+Meed - 120gp
+- Magical Syringe
+
+Bats has "_darakhul fever_"
+
+Order placed with [[Lady Greyhair]]
+
+Travel to the [[Bank of Karabraxos]]
+

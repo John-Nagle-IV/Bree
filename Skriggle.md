@@ -1,0 +1,3 @@
+A small red Kobold wearing an old hat, vest, and spats. An excitable personality, he runs from appointment to appointment. Found within his hat is his pocket watch which can act as a key to access the lower levels of the banking network where [[Gree Goldtooth]] resides.
+
+Skriggle is a servant of [[Gree Goldtooth]] and is loyal to him, though can be tempted through bribery to divulge hits. Never outright betray.

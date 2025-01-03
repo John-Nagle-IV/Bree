@@ -1,0 +1,1 @@
+An Ancient Gold Dragon who created the foundations of the banking network that is in its fledgling stages throughout the world. He is often disguised as a gold scaled Kobold and can be found swimming around in his large piles of gold coin deposits.

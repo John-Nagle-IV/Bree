@@ -1,1 +1,1 @@
-Home and shop of Gwendalin Marswath, an elderly clairvoyant who is always seeing a few seconds in the future. In order to find what you need she needs a big
+Home and shop of [[Gwendalin Marswath]], an elderly clairvoyant who is always seeing a few seconds in the future. In order to find what you need she needs a big

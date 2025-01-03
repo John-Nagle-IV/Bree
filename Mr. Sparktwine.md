@@ -1,2 +1,2 @@
 Rwando B. Sparktwine
-Graduated from 
+Graduated from [[Beacon]], he holds many interests, principal is arcane engineering and distilling strong spirits.

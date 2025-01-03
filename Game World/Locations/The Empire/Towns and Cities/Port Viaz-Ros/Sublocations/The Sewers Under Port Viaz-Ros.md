@@ -7,4 +7,4 @@ In order to find ones way through, they need to know where to go and how to get 
 
 Each of these will move their investigation roll from *Disadvantage* -> *Normal* -> *Advantage*
 
-Thei
+
