@@ -548,7 +548,7 @@ Pixy turn to monkey
 
 Fight
 
-[[Drk Glasseye]]
+[[Groseman Glasseye]]
 
 Pixy down
 
@@ -573,4 +573,211 @@ Bats has "_darakhul fever_"
 Order placed with [[Lady Greyhair]]
 
 Travel to the [[Bank of Karabraxos]]
+
+- Crew was in the vault.
+- Destroyed the bag of baby mimics.
+
+In [[Gree Goldtooth]]'s layer
+
+---
+# Group has a permanent vault at the [[Bank of Karabraxos]]
+
+---
+Bats making potions
+Discern the effect of the scroll
+Scroll given to [[Lady Greyhair]]
+Gwane debt cleared
+
+
+Zero fiddling with the pocket watch
+Magic pocket watch
+If fixed does two things - time telling. extra bonus action
+Frizzle's Tinker Shop
+Ch - engraved in a gear in the pocket watch
+Chronos - Lord of Time
+[[Mr. Sparktwine]] may know about gears for watch
+[[Viaz University]] - 
+Delila's Sweets - She was well received at [[The Satyr Court]] to the point where she caught the eye of a lord who promised land in the feywild
+Zero and Liam go to a japanese style bath house
+Bats - Familier 
+
+Pixy free after hags gone
+Park in mid city
+
+Fight the tree, get the sap.
+
+Got the pocket watch ticking
+Modron in a pocket moment
+Watch is ticking
+
+Zero owes a debt of 1200
+
+Barrels and Burgers
+Midcity
+"We do things differently here"
+
+Ducks and Docks
+Docks
+Light & Dark beer
+5c per beer
+dwarven women stained apron
+Liam drinks heavily
+
+Kre's Kebas
+Big, harry kebab guy
+4c for a kebab
+
+Bowes End Bar
+Large bar, very crowded
+
+---
+
+Rougespire arrives
+
+Sire, [[Groseman Glasseye]] arrives. Brown and red coat, bandoleer of knives, cane, stone leg, handlebar mustache, tricorn hat.
+
+Carriage arrives, brings everyone to [[Tilda Bronzebrow Viaz]] manor
+
+Banquet hall
+
+Jade does cloths swap
+
+Story swap
+
+[[Groseman Glasseye]] drunk
+
+Keys are distributed
+
+Returned the gear to city corps of engineers
+Flying tubes and bursting steam 
+Bats sees a note on the cauldron
+Acquire Some potions
+
+Asleep in the house
+
+---
+
+Interrogate the hag
+Lucean - 22
+Euphegenia - 14
+Char - 11
+Jade - 8
+Liam - 5
+
+### 🕯️ **Interrogation Recap – The Bound Hag in Lady Viaz’s Dungeon**
+
+In the flickering gloom of Lady Viaz’s stone-walled dungeon, the party interrogated the captured Night Hag—first with words, then with power, threats, and the soul bag that once housed Lord Ros.
+
+Over the course of the interrogation:
+
+---
+
+### 🎯 What the Party Learned:
+
+#### 🧩 **Coven Details**
+
+- The **coven’s lair** is located in a **massive cavern** at the center of the city’s sewers.
+- The **Kraken’s body** lies there, sleeping—**severed from its mind**.
+- The Night Hags plan to **break the seal** and **rebind the Kraken’s mind to their control**.
+
+
+#### ⚔️ **Hag Sisters' Powers**
+
+- **Morga** uses **toxic fumes and necrotic plagues** to raise the dead. Her weakness is air—**remove her breath**, and her control collapses.
+- **Virelda** manipulates others through **dolls, marionettes, and enchanted strings**. Severing her control requires breaking her **puppet hearts**—arcane foci linked to each victim.
+
+#### 🧠 **Psychological Insight**
+
+- The captured Hag holds **deep envy and spite** toward her sisters—especially Virelda.
+- When pressed, she admitted she'd **betray the coven** if freed, promising to **dissolve the coven bond** empowering the others.
+- She seemed _gleeful_ at the idea of their downfall.
+
+---
+
+### 💀 **Revealed Truths**
+
+- **Lord Alabaster Ros is dead**—his body devoured by a Black Pudding in the sewers.  
+    His **flesh was used to create the Hag’s soul bag**, and his **soul was part of the ritual** to sunder the Kraken’s mind from its body.
+- A **Seeming-disguised zombie guard**, intended to warn the Hags of the party’s knowledge, was intercepted and destroyed by Bats and Zero inside Lady Viaz’s manor.
+
+---
+
+### ⚗️ **Key Artifact – The Toxic Tankard**
+
+- Liam revealed **The Toxic Tankard**, a **critical necrotic focus** stolen from Morga.
+- The Hag laughed, mocking Morga’s loss—revealing she hasn’t seen her sister in several days and hinting that **Morga may have already been undone** by the Tankard’s loss.
+
+---
+
+### 🧩 **Next Steps Given by the Hag**
+
+- The Hag confirmed she still holds her **ritual anchor**, one of the three needed for the Kraken-binding.
+- She offered to **help dissolve the coven’s power** if the party frees her.
+
+----
+
+Zero updates the Hag's traps
+1. Illusory Wall 
+2. Trapped Narrow Path
+	T1 - Acid Trap -> Explosive Trap & Harder Disarm
+	T2 - Needle Trap -> Harder Disarm
+	T3 - Smash Trap -> Collapse Trap & Harder Disarm
+3. Fey Wall (Blood Of Fey, Open This Way written in Sylvan) Arcane Lock requiring Fey Blood
+
+Overheard the Hags bickering - they discovered something in the dreams of [[Groseman Glasseye]].
+Char overheard them with comprehend languages and the rumbling voice of the kraken
+
+The party escaped and rewired the traps
+
+Find [[Tilda Bronzebrow Viaz]] in front of a large bonfire
+
+Burning the corrupted bodies
+
+[[Golden Paladins of the Crown]] present taking word to the capital
+
+---
+
+Bought stuff
+
+Sterling Silver Shop
+
+Meet with Lady = Discount
+
+Druid Runes
+
+Elf twins bar
+
+Gets super drunk at bar
+
+---- 
+
+## Escape the smog
+
+|  Name  | Initiative | Distance | Hp  |
+| :----: | :--------: | :------: | --- |
+| Lucan  |     3      |   710    |     |
+|  Bats  |     12     |   570    |     |
+|  Pyro  |     22     |   570    |     |
+|  Zero  |     19     |   680    |     |
+| -Liam- |     8      |   420    |     |
+|  Viaz  |     1      |   570    |     |
+
+### Challenges
+
+|      Challenge       | Distance |
+| :------------------: | :------: |
+|     Fallen Wagon     |    0     |
+|  Collapsed Archway   |    50    |
+|  Sewer Steam Burst   |   100    |
+|   Fog Pulse Surge    |   200    |
+| Fog Trap / Rune Trap |   300    |
+| Fleeing Civilians /  |   400    |
+|         ooze         |   500    |
+|        Mimic         |   600    |
+|    Charming Wisps    |   700    |
+|                      |   800    |
+Bats turns into a horse
+Viaz - 1 spell sot -10dmg
+
+---
 
